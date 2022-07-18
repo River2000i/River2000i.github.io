@@ -98,7 +98,8 @@ ignore:
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: next 
+# theme: next 
+remote_theme: theme-next/hexo-theme-next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
