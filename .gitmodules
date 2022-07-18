@@ -1,6 +1,9 @@
-[submodule "themes/next1"]
-	path = themes/next1
+[submodule "themes/next"]
+	path = themes/next
 	url = https://github.com/theme-next/hexo-theme-next
-[submodule "River2000i.github.io"]
-	path = River2000i.github.io
-	url = https://github.com/River2000i/River2000i.github.io
+# [submodule "River2000i.github.io"]
+# 	path = River2000i.github.io
+# 	url = https://github.com/River2000i/River2000i.github.io
+#   Error: fatal: No url found for submodule path 'River2000i.github.io/themes/next' in .gitmodules
+#   Error: fatal: Failed to recurse into submodule path 'River2000i.github.io'
+#   Error: The process '/usr/bin/git' failed with exit code 128
