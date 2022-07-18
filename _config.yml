@@ -71,7 +71,7 @@ category_map:
 tag_map:
 
 # Metadata elements
-## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
+## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta 
 meta_generator: true
 
 # Date / Time format
@@ -96,8 +96,8 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/ 
-theme: next
+## Themes: https://hexo.io/themes/
+theme: next1
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
