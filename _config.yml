@@ -8,8 +8,10 @@ subtitle: ''
 description: ''
 keywords:
 author: John Doe
-language: en
-timezone: ''
+# Site
+language: zh-CN
+timezone: Asia/Shenzhen
+
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -95,9 +97,9 @@ exclude:
 ignore:
 
 # Extensions
-## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
-theme: landscape
+## Plugins: http://hexo.io/plugins/
+## Themes: http://hexo.io/themes/
+theme: next 
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
