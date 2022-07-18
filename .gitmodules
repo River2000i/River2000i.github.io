@@ -1,6 +1,6 @@
-[submodule "themes/themes/next1"]
-	path = themes/themes/next1
-	url = https://github.com/theme-next/hexo-theme-next
 [submodule "themes/next1"]
 	path = themes/next1
 	url = https://github.com/theme-next/hexo-theme-next
+[submodule "River2000i.github.io"]
+	path = River2000i.github.io
+	url = https://github.com/River2000i/River2000i.github.io
