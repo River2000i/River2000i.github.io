@@ -1,7 +1,6 @@
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
-
 # Site
 title: Hexo
 subtitle: ''
@@ -100,7 +99,6 @@ ignore:
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 theme: next 
-
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
